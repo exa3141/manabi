@@ -19,13 +19,17 @@ organizations:
   url: https://theuselessweb.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 化学ぽこぽこ、パソコンぺちぺち、ヴァイオリンごりごり、ペンギンもふもふ。
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 数学
+- 物理学
+- 化学
+- クラシック音楽、バロック音楽、古楽
+- ラテン語
+- PCゲーム (LoL, Minecraft, Civ6, MSFS2020, Myst)
 
 # Education to show in About widget
 education:
@@ -50,7 +54,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/exa3141
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
