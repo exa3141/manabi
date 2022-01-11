@@ -85,7 +85,7 @@ highlight_name: true
 <!-- ここから自己紹介メイン -->
 
 このたびは 幣も取りあへず 手向山 紅葉のにしき 神のまにまに
-$e^{i\pi}+1=0$
+$$e^{i\pi}+1=0$$
 
 <!--
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
