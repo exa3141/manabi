@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: Hello
+title: 
 
 # Section subtitle
 subtitle:
@@ -20,9 +20,15 @@ design:
   # Use a 1-column layout
   columns: "1"
   # Use a dark navy background with light text.
-#  background:
+  background:
+    image: open-book.jpg
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
 #    color: 'navy'
 #    text_color_light: true
 ---
-<link href="title.css" rel="stylesheet"></link>
-#ますますわからなくなる
+
+
+# ますますわからなくなる
