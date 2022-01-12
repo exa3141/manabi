@@ -21,7 +21,8 @@ design:
   columns: "1"
   # Use a dark navy background with light text.
   background:
-    image: open-book.jpg
+    image: hexagon.jpg
+#    image_darken: 1.0
     image_parallax: true
     image_position: center
     image_size: cover
@@ -32,3 +33,5 @@ design:
 
 
 # ますますわからなくなる
+この世はわからないことでいっぱいです
+<br><br><br><br><br><br>
