@@ -12,7 +12,42 @@
     margin-top: 20px;
   }
 
-  .callout_definition h5{
+.callout_definition h4{
     color:#028760;
     margin-top: 20px;
+  }
+
+.callout_definition h5{
+    color:#028760;
+    margin-top: 20px;
+  }
+
+  .callout_theorem{
+    margin:16px 0;
+    font-size:inherit;padding:0 15px;
+    color:#333333;
+    background-color:#c7e7fe;
+    border-left:4px solid #037bd5;
+    padding: 1px 15px 20px 30px;
+  }
+
+.callout_theorem h3{
+    color:#037bd5;
+    margin-top: 20px;
+  }
+
+.callout_theorem h4{
+    color:#037bd5;
+    margin-top: 20px;
+  }
+
+.callout_theorem h5{
+    color:#037bd5;
+    margin-top: 20px;
+  }
+
+
+  .suushiki{
+    overflow-x: auto;
+    overflow-y: hidden;
   }

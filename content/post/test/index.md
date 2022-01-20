@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -39,4 +39,35 @@ categories:
 - 代数学-線形代数学
 ---
 
-## ここから本文?
+## 線形写像の定義
+
+線形写像とは何であろうか。定義をみていく。
+
+<blockquote class="callout_definition">
+        <h5>定義: 線形写像</h5>
+$\boldsymbol{x},\boldsymbol{y}$ は $n$ 次ベクトル、$k$ はスカラーとする。このとき、
+<div class="suushiki">
+$$
+\text{写像}T:\mathbb{C}^n \to \mathbb{C}^m \text{が線形写像である} \overset{\text{def}}{\iff}
+\left\{ \,
+    \begin{aligned}
+    & T(\boldsymbol{x}+\boldsymbol{y})=T(\boldsymbol{x})+T(\boldsymbol{y}) \\
+    & T(k\boldsymbol{x})=kT(\boldsymbol{x})
+    \end{aligned}
+\right.
+$$
+</div>
+
+と定義する。</blockquote>
+
+<div class="suushiki" >
+$$
+\text{写像}T:\mathbb{C}^n \to \mathbb{C}^m \text{が線形写像である} \overset{\text{def}}{\iff}
+\left\{ \,
+    \begin{aligned}
+    & T(\boldsymbol{x}+\boldsymbol{y})=T(\boldsymbol{x})+T(\boldsymbol{y}) \\
+    & T(k\boldsymbol{x})=kT(\boldsymbol{x})
+    \end{aligned}
+\right.
+$$
+</div>
