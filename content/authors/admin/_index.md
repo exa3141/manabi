@@ -86,18 +86,6 @@ highlight_name: true
 
 このたびは 幣も取りあへず 手向山 紅葉のにしき 神のまにまに
 
-<blockquote class="callout_definition">
-        <h5>定義: 線形写像</h5>
-$\boldsymbol{x},\boldsymbol{y}$ は $n$ 次ベクトル、$k$ はスカラーとする。このとき、<br>
-写像$T$:$\mathbb{C}^n \to \mathbb{C}^m$が線形写像である $\overset{\text{def}}{\iff}
-\left\{ \,
-    \begin{aligned}
-    & T(\boldsymbol{x}+\boldsymbol{y})=T(\boldsymbol{x})+T(\boldsymbol{y}) \\
-    & T(k\boldsymbol{x})=kT(\boldsymbol{x})
-    \end{aligned}
-\right.
-$
-
 <!--
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
