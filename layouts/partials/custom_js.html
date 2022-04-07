@@ -1,0 +1,11 @@
+<script>
+	var scoreObj = document.getElementsByClassName("score");
+	for( var i in scoreObj ){
+		ABCJS.renderAbc( scoreObj[i], scoreObj[i].innerHTML );
+	}
+</script>
+
+<script>
+	ABCJS.midi.soundfontUrl="../../assets/abcjs";
+	ABCJS.renderMidi( "player", document.getElementById("score").innerHTML, {}, { generateInline: true }, {} );
+</script>
