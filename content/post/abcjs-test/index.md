@@ -45,3 +45,5 @@ V:1 clef=treble staff=1
 V:2 clef=bass staff=1
 C,4|G,4|C,4|
 </div>
+
+{{< audio src="test.mp3" >}}
