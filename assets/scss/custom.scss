@@ -50,6 +50,7 @@
 .suushiki{
     overflow-x: auto;
     overflow-y: hidden;
+    text-align: center
   }
 
 .docs-article-container {
@@ -58,4 +59,28 @@
 
 .article-container {
     max-width: 900px;
+  }
+
+  .callout_others{
+    margin:16px 0;
+    font-size:inherit;padding:0 15px;
+    color:#333333;
+    background-color:#f5f5f5;
+    border-left:4px solid #777777;
+    padding: 1px 15px 20px 30px;
+  }
+
+.callout_others h3{
+    color:#777777;
+    margin-top: 20px;
+  }
+
+.callout_others h4{
+    color:#777777;
+    margin-top: 20px;
+  }
+
+.callout_others h5{
+    color:#777777;
+    margin-top: 20px;
   }
