@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "集合論入門 集合とその性質"
+title: "集合論入門01 集合とは"
 subtitle: ""
 summary: ""
 authors:
@@ -113,7 +113,7 @@ projects: []
 
 が成り立つと予想するかもしれない。部分集合の定義からこれは「\\(x \in \varnothing \Rightarrow x \in A \\)」と同値である。
 今、任意の \\(x\\) について \\(x \in \varnothing \\) はつねに偽であるから \\(x \in \varnothing \Rightarrow x \in A \\) は[真になる。]({{< relref "/post/naraba" >}})
-したがって
+したがって \\(\varnothing \subset A\\) は常に成り立つことが示された。すなわち、空集合はすべての集合の部分集合である。もちろん空集合自体も空集合を部分集合として包む。
 
 ## 集合の相等
 
