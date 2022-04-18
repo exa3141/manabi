@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "集合論入門01 集合とは"
+title: "集合論入門 1 集合とは"
 subtitle: ""
 summary: ""
 authors:
